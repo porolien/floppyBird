@@ -1,0 +1,5 @@
+Les grandes différences entre l'uml et le projet final sont surtout présent sur l'ui et les éléments du terrain créé.
+
+Malgré ça j'ai essayé de suivre au maximum ce qui était présent sur l'UML.
+
+Je n'ai juste pas pensé à avoir un UML sur tout mes scripts même les plus simple qui s'occupe d'une autre partie que ce que peux faire le joueur
